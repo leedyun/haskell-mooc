@@ -39,7 +39,7 @@ double x = 2*x
 -- four.
 
 quadruple :: Integer -> Integer
-quadruple x = todo
+quadruple x = 2*double x
 
 ------------------------------------------------------------------------------
 -- Ex 4: define the function distance. It should take four arguments of
